@@ -2,9 +2,9 @@
 
 I love programming and these are some languages that I'm learning:
 
--   ![python](/images/javascript.png) Javascript
--   ![python](/images/node-js.png) Node JS
+-   ![Javascript](/images/javascript.png) Javascript
+-   ![NodeJS](/images/node-js.png) Node JS
 -   ![python](/images/python.png) Python
--   ![python](/images/html5.png) Html
--   ![python](/images/css3.png) Css
--   ![python](/images/c.png) C++
+-   ![HTML](/images/html5.png) Html
+-   ![CSS](/images/css3.png) Css
+-   ![C++](/images/c.png) C++
