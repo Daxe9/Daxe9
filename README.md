@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello I'm Xie
 
-Hello I'm Xie, I love programming and these are some languages that I'm learning:
+I love programming and these are some languages that I'm learning:
 
 -   ![python](/images/javascript.png) Javascript
 -   ![python](/images/node-js.png) Node JS
