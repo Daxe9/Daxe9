@@ -1,6 +1,6 @@
 ### Hello I'm Xie
 
-I love programming and these are some languages that I'm learning:
+I love programming and these are some languages and frameworks that I'm learning:
 
 -   ![Javascript](/images/javascript.png) Javascript
 -   ![NodeJS](/images/node-js.png) Node JS
