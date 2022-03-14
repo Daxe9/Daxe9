@@ -12,6 +12,5 @@ I love programming and these are some languages and frameworks that I'm learning
 <<<<<<< HEAD
 -   ![C++](/images/c.png) C++
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
-=======
->>>>>>> a678793cc8688adebc8f766bb274f04c4d586e25
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxe9&show_icons=true&theme=gruvbox)
+
