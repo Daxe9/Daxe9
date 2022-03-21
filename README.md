@@ -9,7 +9,6 @@ I love programming and these are some languages and frameworks that I'm learning
 -   ![python](/images/python.png) Python
 -   ![HTML](/images/html5.png) Html
 -   ![CSS](/images/css3.png) Css
-<<<<<<< HEAD
 -   ![C++](/images/c.png) C++
 
 ![Daxe9's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxe9&show_icons=true&theme=gruvbox)
