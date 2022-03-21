@@ -12,4 +12,5 @@ I love programming and these are something that I'm familiar with:
 -   ![Linux](/images/linux.png) Linux
 -   ![Docker](/images/docker.png) Docker
 -   ![Git](/images/git.png) Git
-    ![Daxe9's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxe9&show_icons=true&theme=gruvbox)
+
+![Daxe9's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxe9&show_icons=true&theme=gruvbox)
